@@ -1,7 +1,7 @@
 //your JS code here. If required.
 let count=1;
 const level=document.getElementById("level");
-while(false)
+while(true)
 	{
 		if(level.tagName==="HTML")break;
 		level=level.parentNode();
